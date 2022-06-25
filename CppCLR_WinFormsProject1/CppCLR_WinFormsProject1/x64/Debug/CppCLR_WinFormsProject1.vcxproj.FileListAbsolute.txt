@@ -1,0 +1,8 @@
+D:\VS Projects\CppCLR_WinFormsProject1\CppCLR_WinFormsProject1\x64\Debug\CppCLR_WinFormsProject1.vcxproj.AssemblyReference.cache
+D:\VS Projects\CppCLR_WinFormsProject1\CppCLR_WinFormsProject1\x64\Debug\CppCLR_WinFormsProject1.vcxproj.SuggestedBindingRedirects.cache
+D:\VS Projects\CppCLR_WinFormsProject1\CppCLR_WinFormsProject1\x64\Debug\CppCLR_WinFormsProject1.Form1.resources
+D:\VS Projects\CppCLR_WinFormsProject1\CppCLR_WinFormsProject1\x64\Debug\CppCLR_WinFormsProject1.vcxproj.GenerateResource.cache
+C:\Users\dhasa\Desktop\CppCLR_WinFormsProject1\CppCLR_WinFormsProject1\x64\Debug\CppCLR_WinFormsProject1.vcxproj.AssemblyReference.cache
+C:\Users\dhasa\Desktop\CppCLR_WinFormsProject1\CppCLR_WinFormsProject1\x64\Debug\CppCLR_WinFormsProject1.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\dhasa\Desktop\CppCLR_WinFormsProject1\CppCLR_WinFormsProject1\x64\Debug\CppCLR_WinFormsProject1.Form1.resources
+C:\Users\dhasa\Desktop\CppCLR_WinFormsProject1\CppCLR_WinFormsProject1\x64\Debug\CppCLR_WinFormsProject1.vcxproj.GenerateResource.cache
